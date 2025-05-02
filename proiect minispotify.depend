@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1746223286 source:c:\users\maria\onedrive\documents\fmi\proiect minispotify\main.cpp
+	"spotify_app.h"
+	"spotify_exception.h"
+	<iostream>
+	<stdexcept>
+
+1746223248 c:\users\maria\onedrive\documents\fmi\proiect minispotify\spotify_app.h
+	"user.h"
+	<vector>
+	<memory>
+
+1746224905 c:\users\maria\onedrive\documents\fmi\proiect minispotify\user.h
+	"playlist.h"
+	<string>
+	<vector>
+	<memory>
+	<map>
+
+1746224850 c:\users\maria\onedrive\documents\fmi\proiect minispotify\playlist.h
+	"song.h"
+	<memory>
+	<vector>
+	<string>
+	<fstream>
+
+1746224866 c:\users\maria\onedrive\documents\fmi\proiect minispotify\song.h
+	<memory>
+	<string>
+
+1746224877 c:\users\maria\onedrive\documents\fmi\proiect minispotify\spotify_exception.h
+	<stdexcept>
+	<string>
+
+1746223134 source:c:\users\maria\onedrive\documents\fmi\proiect minispotify\song.cpp
+	"song.h"
+	"spotify_exception.h"
+	<iostream>
+	<memory>
+	<stdexcept>
+
+1746223267 source:c:\users\maria\onedrive\documents\fmi\proiect minispotify\spotify_app.cpp
+	"spotify_app.h"
+	"playlist.h"
+	"spotify_exception.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	<map>
+	<cstdlib>
+	<ctime>
+
+1746223221 source:c:\users\maria\onedrive\documents\fmi\proiect minispotify\user.cpp
+	"user.h"
+	"spotify_exception.h"
+	<algorithm>
+	<iostream>
+
+1746223383 source:c:\users\maria\onedrive\documents\fmi\proiect minispotify\playlist.cpp
+	"playlist.h"
+	"spotify_exception.h"
+	<algorithm>
+	<map>
+	<iostream>
+
+1746223512 source:c:\users\maria\onedrive\documents\fmi\proiect minispotify\spotify_exception.cpp
+	"spotify_exception.h"
+

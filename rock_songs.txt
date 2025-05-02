@@ -1,0 +1,10 @@
+rock Bohemian Rhapsody,Queen,354 heavy
+rock Sweet Child O'Mine,Guns N'Roses,356 heavy
+rock Hotel California,Eagles,390 classic
+rock Smells Like Teen Spirit,Nirvana,301 heavy
+rock Back in Black,AC/DC,255 heavy
+rock Stairway to Heaven,Led Zeppelin,482 classic
+rock Seven Nation Army,The White Stripes,231 heavy
+rock Wonderwall,Oasis,258 classic
+
+

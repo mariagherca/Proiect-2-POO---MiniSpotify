@@ -1,0 +1,10 @@
+pop Blinding Lights,The Weeknd,200 0.95
+pop Save Your Tears,The Weeknd,215 0.85
+pop Levitating,Dua Lipa,218 0.80
+pop Don't Start Now,Dua Lipa,183 0.75
+pop Watermelon Sugar,Harry Styles,174 0.90
+pop Bad Habits,Ed Sheeran,231 0.88
+pop Stay,The Kid LAROI,138 0.92
+pop Positions,Ariana Grande,173 0.87
+
+
