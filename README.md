@@ -54,3 +54,26 @@ Fiecare tip de melodie are un calcul specific al popularitatii, bazat pe:
     Datele sunt incarcate din fisiere text la pornire
     Modificarile utilizatorului (playlist-uri, favorite) sunt salvate doar in memorie
     La inchiderea aplicatiei, modificarile se pierd (nu sunt persistate pe disk)
+
+
+Bibliografie:
+- GeeksforGeeks - Inheritance in C++
+https://www.geeksforgeeks.org/inheritance-in-c/
+
+- Cplusplus.com - Polymorphism
+https://cplusplus.com/doc/tutorial/polymorphism/
+
+- Bo Qian - Smart Pointers in C++ (YouTube)
+https://www.youtube.com/watch?v=UOB7-B2MfwA
+
+- Derek Banas - Factory Pattern Explained
+https://www.youtube.com/watch?v=ub0DXaeV6hA
+
+- Refactoring Guru - Factory Method
+https://refactoring.guru/design-patterns/factory-method/cpp/example
+
+- Fireship - SOLID Principles in 100 Seconds
+https://www.youtube.com/watch?v=TMuno5RZNeE
+
+- Pb info
+https://www.pbinfo.ro/articole/3900/programare-orientata-obiect-introducere
